@@ -1,0 +1,3 @@
+get more  :1.4:
+big_deal_list::
+normal_deal_list:002916.XSHE_2020-04-10,300750.XSHE_2020-10-28,603259.XSHG_2020-10-30:
